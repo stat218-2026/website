@@ -16,8 +16,9 @@ library(kableExtra)
 ```
 
 
-__Section 03:__ MTWR 09:10 AM – 10:00 AM 14-253 (Frank E. Pilling 14)    
-__Section 04:__ MTWR 10:10 AM – 11:00 AM  010-222 (Erhart Agriculture 010)
+__Section 04:__ MTWR 10:10 AM – 11:00 AM 2-212 (Cotchett Education 2)    
+__Section 05:__ MTWR 12:10 PM – 01:00 PM 33-287 (Fisher Science 33)     
+__Section 06:__ MTWR 01:10 PM – 02:00 PM 33-287 (Fisher Science 33)    
 
 ## Course Schedule
 

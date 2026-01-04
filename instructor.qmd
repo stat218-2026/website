@@ -4,7 +4,9 @@ toc: false
 
 ## Meet Your Instructor
 
-Life science is complicated. As your professor, I know you already know this, and it's not my intention to teach you that. However, I am committed to giving you a glimpse into some of these complexities by integrating statistical concepts into life science topics. By the end of this course, I hope to increase your statistical literacy and data literacy. In the best-case scenario, I will support you in making sense of uncertainty in the (1) behavior of chemicals, (2) relationships among living organisms & communities of living organisms, and (3) physical processes that sustain most of the living systems through the use of statistics.
+Life science is complicated. As your professor, I know you already know this, and it's not my intention to teach you that. However, I am committed to giving you a glimpse into some of these complexities by integrating statistical concepts into life science topics. By the end of this course, I hope to increase your statistical literacy and data literacy. In the best-case scenario, I will support you in decision- making process and making sense of uncertainty in the (1) behavior of chemicals, (2) relationships among living organisms & communities of living organisms, (3) physical processes that sustain most of the living systems and (4) dynamics of human health, through the use of statistics.
+
+STAT 218 is tailored for life science students who will inevitably engage with Statistics in their future professions. 
 
 :::: {.columns}
 
@@ -28,7 +30,6 @@ __Instructor's office hours:__
 
 __Monday:__ 11:10 AM - 12:00 PM _(In-Office)_    
 __Tuesday:__ 11:10 AM - 12:00 PM _(In-Office)_  
-
 __Wednesday:__ 11:10 AM - 12:00 PM _(In-Office)_  
 __Thursday:__ 11:10 AM - 12:00 PM _(In-Office)_    
 :::

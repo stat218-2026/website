@@ -38,8 +38,8 @@ all conveniently organized for your academic journey.
   <tr>
         <td>&nbsp; Nothing, just come to the class!</td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
-      &nbsp;<input type="checkbox" /> A Discussion on Life Sci. and Statistics <i class="fas fa-comments"></i>
+      &nbsp;<input type="checkbox" /><a href="https://stat218-2026.github.io/slides/01-Week-01/01-Lec-01/01-welcomee.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the syllabus</a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /> An Introduction to Statistics, Data, Variables and Statistical Studies <i class="fas fa-comments"></i>
   <td> 
       &nbsp;<input type="checkbox" /> <a href="https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen" target="_blank"> <i aria-hidden="true" title="External Link to YouTube" target="_blank"></i> The best stats you've ever seen</a> <i class="fas fa-video"></i>  
       &nbsp;<input type="checkbox" /> <a href="https://www.youtube.com/watch?v=Tm2cCnRjcOM&list=PLkIselvEzpM5nFf4nu--q2OGccA_0alYO" target="_blank">
