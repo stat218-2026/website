@@ -132,26 +132,17 @@ all conveniently organized for your academic journey.
 
   <tr>
     <td>
-    <b> CH 2: Description of Samples and Populations </b>  
+      <b> CH 1: Introduction </b>  
     <br>
-    &nbsp;<input type="checkbox" /> <b>Section 2.2:</b> Frequency Distributions <i class="fas fa-book-open"></i>      
-    &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>    
-
-&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    &nbsp;<input type="checkbox" /> <b>Section 1.3:</b> Random Sampling <i class="fas fa-book-open"></i>    
+    
+&nbsp; <b>FROM Samuels et al. (2016)</b>
     </td>
     <td>
     &nbsp;&nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Sampling in Statistics </a> <i class="fas fa-file-lines"></i>     
-      &nbsp;<input type="checkbox" /><a href="https://stat218-fall25.github.io/slides/02-Week-02/01-Lect-01/01-descriptive-stat.pdf" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Description of Samples and Populations </a> <i class="fas fa-file-lines"></i>   
-      &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/descstats/Dotplot.htm"target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
+    </td>
   <td>
-      &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
-    <br>
-    &nbsp; <input type="checkbox" /> Exercise 2.2.6     
-    &nbsp; <input type="checkbox" /> Exercise 2.3.3     
-    &nbsp; <input type="checkbox" /> Exercise 2.3.10        
 
-<i class="fas fa-clock"></i><b> DUE DATE: Mon, Jan 19</b>
-      
   </td>
 </tr>
 
@@ -159,38 +150,49 @@ all conveniently organized for your academic journey.
     <td> 
     <b> CH 2: Description of Samples and Populations </b>  
     <br>
-    &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 2.2:</b> Frequency Distributions <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>    
     &nbsp;<input type="checkbox" /> <b>Section 2.6:</b>  Measures of Dispersion <i class="fas fa-book-open"></i>    
 
 &nbsp; <b>FROM Samuels et al. (2016)</b>
 </td>
 
 <td>    
-    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1zbeQIHxoxayaV8735Rj2FsfL61GeP6jG/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to investigation document" target="_blank"></i> Investigation 2 </a><i class="fa-solid fa-magnifying-glass"></i>  
+          &nbsp;<input type="checkbox" /><a href="https://stat218-fall25.github.io/slides/02-Week-02/01-Lect-01/01-descriptive-stat.pdf" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Description of Samples and Populations </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/descstats/Dotplot.htm"target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
 </td>
 
 <td>
-    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 2  
+     &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> Exercise 2.2.6     
+    &nbsp; <input type="checkbox" /> Exercise 2.3.3     
+    &nbsp; <input type="checkbox" /> Exercise 2.3.10        
 
-<br>
-
-<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Jan 15 </b>
+<i class="fas fa-clock"></i><b> DUE DATE: Mon, Jan 19</b>
 </td>
   </tr>
 
   <tr>
     <td> 
-    &nbsp;   Nothing, just come to the class!	 
-    </td>
+    <b> CH 2: Description of Samples and Populations </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 2.2:</b> Frequency Distributions <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 2.6:</b>  Measures of Dispersion <i class="fas fa-book-open"></i>    
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>    </td>
     <td>
     <br>
-     &nbsp; <input type="checkbox" /><a href="https://docs.google.com/presentation/d/1sX9ij32z59iXCRO6LiDC4dG53fKrUEJbLyFfJbzxapQ/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Introduction to Chance Models </a> <i class="fas fa-file-lines"></i>   
-    &nbsp; <input type="checkbox" /> Guided Activity
+    &nbsp; <input type="checkbox" /> <a href="https://stat218-fall25.github.io/slides/02-Week-02/02-Lect-04/01-Lec-04.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Descriptive Statistics - I   </a> <i class="fas fa-file-lines"></i>   
     <br>   
     </td>
 
 <td>
-&nbsp; <input type="checkbox" /> Review the class notes    
+   &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 1
+ 
+<br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Jan 19</b>
 </td>
   </tr>
 
@@ -205,11 +207,11 @@ all conveniently organized for your academic journey.
     </td>
     
 <td>    
-    &nbsp; <input type="checkbox" /> <a href="https://stat218-fall25.github.io/slides/02-Week-02/02-Lect-04/01-Lec-04.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Descriptive Statistics - I   </a> <i class="fas fa-file-lines"></i>   
+   &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1zbeQIHxoxayaV8735Rj2FsfL61GeP6jG/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to investigation document" target="_blank"></i> Investigation 2 </a><i class="fa-solid fa-magnifying-glass"></i> 
     </td>
     <td> 
-    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 1  
- 
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 2  
+
 <br>
     <i class="fas fa-clock"></i><b> DUE DATE: Mon, Jan 19</b>
     </td>
