@@ -158,7 +158,7 @@ all conveniently organized for your academic journey.
 </td>
 
 <td>    
-          &nbsp;<input type="checkbox" /><a href="https://stat218-2026.github.io/slides/02-Week-02/02-Lect-02/01-descriptive-stat.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Description of Samples and Populations </a> <i class="fas fa-file-lines"></i>   
+    &nbsp;<input type="checkbox" /><a href="https://stat218-2026.github.io/slides/02-Week-02/02-Lect-02/01-descriptive-stat.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Description of Samples and Populations </a> <i class="fas fa-file-lines"></i>   
       &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/descstats/Dotplot.htm"target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
 </td>
 
@@ -219,13 +219,90 @@ all conveniently organized for your academic journey.
 
 </table>
 
-### {{< fa calendar-days >}} Week 3 
 
-coming soon!
+### {{< fa calendar-days >}} Week 3 (Jan 20 - Jan 22)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 38%">BEFORE CLASS</th>
+    <th style="width: 36%">DURING CLASS</th>
+    <th style="width: 26%">AFTER CLASS</th>
+  </thead>
+
+<tr> 
+<td colspan="3" style="text-align: center;">&nbsp; <br> <b> Cal Poly Holiday (No class meeting) </b> <br> <br> </td> 
+</tr>
+
+  <tr>
+    <td> 
+   Nothing, just come to the class!
+   
+   Print/Download the handout. 
+    </td>
+    <td>
+    <br>
+     &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1ypaqG1EfHuY5N6PJ6lrkC-yWflrF7ser/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Links to Word documents" target="_blank"></i> Sampling Distribution Handout (Word) </a> <i class="fas fa-file-lines"></i>
+     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Links to PDF documents" target="_blank"></i> Sampling Distribution Handout (PDF) </a> <i class="fas fa-file-lines"></i>
+    </td>
+<td>
+ Review the handout we covered today!
+</td>
+  </tr>
+  <tr>
+    <td>
+    <br>
+    <b> Introduction to Confidence Intervals</b>  
+    <br>    
+ Nothing, just come to the class!  
+    <br>    
+    </td>
+    </td>
+    <td>
+<br>
+      &nbsp;<input type="checkbox" /><a href="https://docs.google.com/presentation/d/12_yIRWzUMMaNsoCsxsBuUS2jAcPbktmEKKRuKILiZqc/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - More on CLT and Introduction to Confidence Intervals </a> <i class="fas fa-file-lines"></i>  
+
+<br>
+      &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
+<br>
+      </td>
+  <td>
+   &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> Course Survey     
+
+
+<i class="fas fa-clock"></i><b> DUE DATE: Mon, Jan 26</b>  
+      
+  </td>
+</tr>
+  <tr>
+    <td>
+    <b> CH 2: Description of Samples and Populations </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 2.2:</b> Frequency Distributions <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>    
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    
+<td>    
+    &nbsp; <input type="checkbox" /> <a href="https://stat218-fall25.github.io/slides/03-Week-03/04-Lect-04/01-Lecture-04-Lab-02.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Descriptive Statistics - II   </a> <i class="fas fa-file-lines"></i>   
+    </td>
+    <td> 
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 2  
+ 
+<br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Jan, 26</b>
+    </td> 
+  </tr>
+
+</table>
+
 
 ### {{< fa calendar-days >}} Week 4 
 
-coming soon!
+
 
 ### {{< fa calendar-days >}} Week 5 
 
