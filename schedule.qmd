@@ -300,9 +300,67 @@ all conveniently organized for your academic journey.
 </table>
 
 
-### {{< fa calendar-days >}} Week 4 
+### {{< fa calendar-days >}} Week 4 (Jan 26 - Jan 29)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 36%">DURING CLASS</th>
+    <th style="width: 24%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+  <td>
+<b> Review your Week 3 class notes! </b>
+    </td>
+    <td>
+<br>
+      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - More Confidence Intervals and Introduction to Hypothesis Testing </a> <i class="fas fa-file-lines"></i>  
+
+<br>
+      &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
+<br>
+      </td>
+  <td>
+    &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> See Canvas     
 
 
+<i class="fas fa-clock"></i><b> DUE DATE: Mon, Feb 2</b> 
+      
+  </td>
+</tr>
+  <tr>
+    <td> 
+   <b> CHAPTER 3 and CHAPTER 4 </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 3.1:</b> Probability and the Life Sciences <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 3.2:</b> Introduction to Probability <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 3.4:</b> Density Curves <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Chapter 4</b> pp. 132- 137 <i class="fas fa-book-open"></i>  
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+</td>
+
+<td>    
+    <br>
+     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Introduction to Hypothesis Testing </a> <i class="fas fa-file-lines"></i>   
+</td>
+
+<td>
+&nbsp; &nbsp; No Assignment for today!
+</td>
+  </tr>
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b> NO CLASS MEETING: STUDY YOUR MIDTERM </b></td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b> Midterm 1 (In-class) </b></td>
+</tr>
+</table>
 
 ### {{< fa calendar-days >}} Week 5 
 
