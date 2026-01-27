@@ -347,7 +347,8 @@ all conveniently organized for your academic journey.
 
 <td>    
     <br>
-     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Introduction to Hypothesis Testing </a> <i class="fas fa-file-lines"></i>   
+     &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1SZPHswx9X4KursWWP9zkkTUldhHUmmue/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Introduction to Hypothesis Testing - Handout (Google Doc)</a> <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /><a href="https://drive.google.com/file/d/1fkhmXGN1m4K5WnKvbavH2PZwBE8sd99_/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Introduction to Hypothesis Testing - Handout (PDF)</a> <i class="fas fa-file-lines"></i>   
 </td>
 
 <td>
