@@ -363,9 +363,91 @@ all conveniently organized for your academic journey.
 </tr>
 </table>
 
-### {{< fa calendar-days >}} Week 5 
+### {{< fa calendar-days >}} Week 5 (Feb 2 - Feb 5)
 
-coming soon!
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 35%">BEFORE CLASS</th>
+    <th style="width: 40%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.5:</b> Conditions for Validity of Estimation Methods <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Lecture Slides - Confidence Interval for a Single Mean </a>&nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    
+  <td>
+       &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> Exercise 6.4.1     
+
+<i class="fas fa-clock"></i><b> DUE DATE: Mon, Feb 9</b>
+      
+</td>
+  </tr>
+  <tr>
+    <td> 
+    <b> Review your Hypothesis Testing for One Proportion notes! </b>  
+    <br>
+
+    </td>
+</td>
+
+<td>    
+    <br>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 - Bob or Tim </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 4  
+
+<br>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Feb 5 </b>
+</td>
+  </tr>
+
+  <tr>
+<tr>
+  <td> 
+    &nbsp; <b>  </b>    
+    <br>
+  </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - More on CI & Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+    &nbsp; **No Assignment for Today!** 
+</td>
+  </tr>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    <br>
+    </td>
+    
+  <td>
+     &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides -  Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
+    </td>
+    <td>
+  No assignment for today!
+    </td>
+  </tr>
+
+</table>
 
 ### {{< fa calendar-days >}} Week 6 
 
