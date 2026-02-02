@@ -375,6 +375,20 @@ all conveniently organized for your academic journey.
 
   <tr>
     <td> 
+    <b> Review your notes! </b>  
+    <br>
+    </td>
+<td>    
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/presentation/d/18uKw5OcqjCPBSI89DkeJNMEFEl01iWUKDys55XkxBOE/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Review of Week 1 - 4  </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+ <b> No assignment for today! </b>
+</td>
+  </tr>
+
+  <tr>
+    <td> 
     &nbsp; <b> Ch 6: Confidence Interval </b>  
     &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
     &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
@@ -382,7 +396,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016)
     </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Lecture Slides - Confidence Interval for a Single Mean </a>&nbsp; <i class="fas fa-file-lines"></i>    
+    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Confidence Interval for a Single Mean </a>&nbsp; <i class="fas fa-file-lines"></i>    
     </td>
     
   <td>
@@ -395,32 +409,13 @@ all conveniently organized for your academic journey.
 </td>
   </tr>
   <tr>
-    <td> 
-    <b> Review your Hypothesis Testing for One Proportion notes! </b>  
-    <br>
-
-    </td>
-</td>
-
-<td>    
-    <br>    
-    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 - Bob or Tim </a><i class="fa-solid fa-magnifying-glass"></i>  
-</td>
-
-<td>
-    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 4  
-
-<br>
-
-<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Feb 5 </b>
-</td>
-  </tr>
-
-  <tr>
 <tr>
   <td> 
-    &nbsp; <b>  </b>    
-    <br>
+        &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.5:</b> Conditions for Validity of Estimation Methods <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)
   </td>
     <td>    
     &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - More on CI & Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>  
@@ -430,21 +425,23 @@ all conveniently organized for your academic journey.
 </td>
   </tr>
 
-  <tr>
+   <tr>
     <td> 
-    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
-    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
-    <br>
-    &nbsp; FROM Diez et al. (2022) 
+    <b> Review your Hypothesis Testing for One Mean notes! </b>  
     <br>
     </td>
-    
-  <td>
-     &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides -  Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
-    </td>
-    <td>
-  No assignment for today!
-    </td>
+<td>    
+    <br>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 3 </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 3  
+
+<br>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Mon, Feb 9 </b>
+</td>
   </tr>
 
 </table>
