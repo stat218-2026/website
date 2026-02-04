@@ -418,7 +418,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016)
   </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - More on CI & Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>  
+    &nbsp; <input type="checkbox" /><a href = "https://drive.google.com/file/d/1b9ieMnyyrd25vAgbeXhykmF2kXn_H7gm/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - More on CI & One Sample t-Test </a> &nbsp; <i class="fas fa-file-lines"></i>  
     </td>
     <td>
     &nbsp; **No Assignment for Today!** 
