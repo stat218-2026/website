@@ -456,7 +456,23 @@ all conveniently organized for your academic journey.
     <th style="width: 36%">DURING CLASS</th>
     <th style="width: 24%">AFTER CLASS</th>
   </thead>
-
+  
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    <br>
+    </td>
+    
+  <td>
+     &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1l556i5LEeKM1fHT97PI56lb9iQzPRpnbeCbR_qMvT6s/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides -  Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
+    </td>
+    <td>
+  No assignment for today!
+    </td>
+  </tr>
   <tr>
     <td>
     &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
@@ -487,12 +503,12 @@ all conveniently organized for your academic journey.
 </td>
 
 <td>    
-    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1pmMw5tdm6PpKH-tFha0HPHC0zTSD9cRl/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 5 - Do COVID vaccines work?
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1pmMw5tdm6PpKH-tFha0HPHC0zTSD9cRl/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 - Do COVID vaccines work?
  </a><i class="fa-solid fa-magnifying-glass"></i>  
 </td>
 
 <td>
-    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 5  
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 4  
 
 <br>
 
@@ -511,7 +527,7 @@ all conveniently organized for your academic journey.
     </td>
     <td>
     <br>
-     &nbsp; <input type="checkbox" /><a href="https://stat218-fall25.github.io/slides/06-Week-06/02-Lecture-03/01-Lecture-03.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Comparing Two Means </a> <i class="fas fa-file-lines"></i>   
+     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Comparing Two Means </a> <i class="fas fa-file-lines"></i>   
     </td>
 
 <td>
@@ -523,32 +539,6 @@ all conveniently organized for your academic journey.
 <i class="fas fa-clock"></i><b> DUE DATE: Mon, Feb 16</b> 
 </td>
   </tr>
-
-  <tr>
-    <td>
-   &nbsp; <b> Ch 7: Inference for Numerical Data </b>    
-    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i> 7.1.5 One sample t-tests</a>&nbsp; <i class="fas fa-book-open"></i>    
-    &nbsp; FROM Diez et al. (2022)   
-  <br>    
-  <b> CH 6: Confidence Intervals </b>  
-    <br>
-    &nbsp;<input type="checkbox" /> <b>Section 6.6:</b> Comparing two means  <i class="fas fa-book-open"></i>      
-    &nbsp;<input type="checkbox" /> <b>Section 6.7:</b> Confidence Interval for µ1 - µ2 <i class="fas fa-book-open"></i>   
-
-&nbsp; <b>FROM Samuels et al. (2016)</b>  
-    </td>
-    
-<td>    
-    &nbsp; <input type="checkbox" /> <a href="https://stat218-fall25.github.io/slides/06-Week-06/03-Lecture-04/02-Lecture-04-Lab-04.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Applications of t-tests   </a> <i class="fas fa-file-lines"></i>   
-    </td>
-    <td> 
-    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 3  
- 
-<br>
-    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Feb, 16</b>
-    </td>
-  </tr>
-
 </table>
 
 
