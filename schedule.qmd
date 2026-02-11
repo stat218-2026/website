@@ -512,7 +512,7 @@ all conveniently organized for your academic journey.
 
 <br>
 
-<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Feb 12</b>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Mon, Feb 16</b>
 </td>
   </tr>
 
