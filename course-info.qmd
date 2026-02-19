@@ -33,7 +33,7 @@ class_wdays <- c("Mon", "Tue", "Wed", "Thu")
 
 not_here_dates <- c(ymd(20260119), ymd(20260216))
 
-exam_dates <- c(ymd(20260129), ymd(20260226), ymd(20260316))
+exam_dates <- c(ymd(20260129), ymd(20260305), ymd(20260316))
 
 finals_week <- seq(ymd(20260316), ymd(20260320), by = 1)
 
@@ -301,9 +301,9 @@ You won’t be required to computer for the exams, but you may see some question
 
 __Thu, Jan 29:__ Midterm I
 
-__Thu, Feb 26:__ Midterm II 
+__Thu, Mar 05:__ Midterm II 
 
-__Mon, Mar 16:__ Final Exam TBD
+__Mon, Mar 16:__ Final Exam - BLDG 033-0286
 
 ::: {.callout-important}
 
