@@ -602,9 +602,78 @@ all conveniently organized for your academic journey.
   </tr>
 </table>
 
-### {{< fa calendar-days >}} Week 8
+### {{< fa calendar-days >}} Week 8 (Feb 24- Feb 26)
 
-coming soon!
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 45%">BEFORE CLASS</th>
+    <th style="width: 30%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <br>
+  <b> No class meeting.Start studying the take-home portion of the Second Midterm. See [Instructions](https://stat218-2026.github.io/slides/11-midterm-2/midterm 2 instructions.html) and [Paper](https://stat218-2026.github.io/slides/11-midterm-2/midterm 2 paper.html) here. </b>   
+<br>  
+  </td>
+</tr>
+  <tr>
+    <td> 
+    <br>
+    &nbsp; <b> Ch 8: Comparison of Paired Samples </b>  
+    &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)    
+    </td>
+<td>    
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1czVPSWOyHPILGlRUvQObBGtjpKcIME5P/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 6 - Improving Running Speed </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 6  
+
+<br>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Feb 26 </b>
+</td>
+    </tr>
+  <tr>
+    <td>
+    &nbsp; <b>Ch 6: Inference for Categorical Data</b>  
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.3</b> Testing for goodness of fit using chi-square</a>&nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.4 </b> Testing for independence in two-way tables</a>&nbsp;<i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Diez et al. (2022)   
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1veLTXR3tZwSBdgjQgcrFc8yGeoXINnN9OtdQlMaqfsk/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Chi Square Tests </a> &nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    <td>
+<b> No assignment for today! </b>   
+    </td> 
+    </tr>
+  <tr>
+    <td> 
+    &nbsp; <b>Ch 6: Inference for Categorical Data</b>  
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.3</b> Testing for goodness of fit using chi-square</a>&nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.4 </b> Testing for independence in two-way tables</a>&nbsp;<i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Diez et al. (2022)   
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1TMcMz7bHLSPb5sf7f0aBFIcgK9f2L3v2/copy?usp=drivesdk&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 7 - Comparing Multiple Proportions
+ </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Investigation 7    
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Mar 2 </b>
+    </td> 
+    </tr>
+
+</table>
+
 
 ### {{< fa calendar-days >}} Week 9 
 
