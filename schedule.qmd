@@ -675,10 +675,166 @@ all conveniently organized for your academic journey.
 </table>
 
 
-### {{< fa calendar-days >}} Week 9 
+### {{< fa calendar-days >}} Week 9 (Mar 2 - Mar 5)
 
-coming soon!
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
-### {{< fa calendar-days >}} Week 10 
-coming soon!
+  <thead>
+    <th style="width: 42%">BEFORE CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 23%">AFTER CLASS</th>
+  </thead>
 
+<tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/13Kv-ptecRTf1zD_-a83nVXTFyCzD7eDRFDOlgXWtlKE/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to One Way ANOVA </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 9 Individual Assignment (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Mar 9 </b>
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/document/d/1uLtKkKg0BZFg-fEX7LzTs-ch-KwqA8gL-RmRwkOoNvw/copy?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Investigation 8 - Comparing Multiple Means</a>&nbsp; <i class="fa-solid fa-magnifying-glass"></i>  
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Investigation 8   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Thu, Mar 5</b>
+    </td> 
+    </tr>
+  <tr>
+    <td>     
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "https://drive.google.com/file/d/1quhp-ARRlU3-oezK9E6rdBSOIkmmohb5/view?usp=sharing"  target="_blank"><i aria-hidden="true" title="External Link to Lab Dataset"></i> Lab Dataset - Aldrin Concentration </a>&nbsp; <i class="fas fa-laptop-file"></i>      
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-fall25.github.io/slides/09-Week-09/04-Lecture-04/01-Lec-04-Lab-05.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide"></i> Lab Slides - One-Way ANOVA </a> &nbsp; <i class="fas fa-file-lines"></i>     
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 5  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Mar 9 </b>    
+    </td> 
+    </tr>
+    <tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b> Midterm 2 (In-class) </b></td>
+</tr>
+
+</table>
+
+
+### {{< fa calendar-days >}} Week 10 (Mar 9 - Mar 12)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 37%">DURING CLASS</th>
+    <th style="width: 23%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.6</b> One-Way Randomized Blocks Design &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = "https://stat218-fall24.github.io/slides/09-Week-09/01-Lecture-01.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - One Way Randomized Blocks Design </a>&nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+     No assignment!   
+    </td> 
+    </tr>
+<tr>
+    <td>
+          &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1ZKknj1PhSsEde5krZHmZj1bIr-GUQwuNaNvqOWwDjPo/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Correlation </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+    <b> No assignment for today </b>
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning $\beta_1$ &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016) 
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1PPUGjpxJPR4xcRW17e6ulKsGlV4n6L4P5JcXP-K9JTg/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - Bivariate Regression </a>&nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 10 Individual Assignment (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Mar 13 </b>
+    </td> 
+    </tr>
+  <tr>
+    <td>
+      &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i>   
+        &nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning $\beta_1$ &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-fall25.github.io/slides/10-Week-10/03-Lecture-03/01-Presentation/01-Lec-02-Lab-07.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slides"></i> Lab Slides - Correlation & Bivariate Regression </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Mar 13 </b>    
+    </td> 
+    </tr>
+</table>
