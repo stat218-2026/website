@@ -16,9 +16,10 @@ library(kableExtra)
 ```
 
 
-__Section 04:__ MTWR 10:10 AM – 11:00 AM 2-212 (Cotchett Education 2)    
-__Section 05:__ MTWR 12:10 PM – 01:00 PM 33-287 (Fisher Science 33)     
-__Section 06:__ MTWR 01:10 PM – 02:00 PM 33-287 (Fisher Science 33)    
+__Section 01:__ TWRF 09:10 AM – 10:00 AM 186-C200 (Constr Innovations Center 186)     
+__Section 02:__ TWRF 10:10 AM – 11:00 AM 186-C200 (Constr Innovations Center 186)      
+__Section 03:__ TWRF 12:10 PM – 01:00 PM 010-222 (Erhart Agriculture 010)    
+
 
 ## Course Schedule
 
@@ -28,17 +29,17 @@ __Section 06:__ MTWR 01:10 PM – 02:00 PM 33-287 (Fisher Science 33)
 #| warning: false
 
 # Ref: http://svmiller.com/blog/2020/08/a-ggplot-calendar-for-your-semester/
-quarter_dates <- c(ymd(20260316), seq(ymd(20260105), ymd(20260312), by=1))
-class_wdays <- c("Mon", "Tue", "Wed", "Thu")
+quarter_dates <- c(ymd(20260606), seq(ymd(20260330), ymd(20260605), by=1))
+class_wdays <- c("Tue", "Wed", "Thu", "Fri")
 
-not_here_dates <- c(ymd(20260119), ymd(20260216))
+not_here_dates <- c(ymd(20260331), ymd(20260525))
 
-exam_dates <- c(ymd(20260129), ymd(20260305), ymd(20260316))
+exam_dates <- c(ymd(20260424), ymd(20260522), ymd(20260606))
 
-finals_week <- seq(ymd(20260316), ymd(20260320), by = 1)
+finals_week <- seq(ymd(20260606), ymd(20260612), by = 1)
 
 # Create a data frame of dates, assign to Cal
-Cal <- tibble(date = seq(ymd(20260101), ymd(20260331), by=1))  |>
+Cal <- tibble(date = seq(ymd(20260401), ymd(20260630), by=1))  |>
   mutate(mon = lubridate::month(date, label = T, abbr = F),
          wkdy = weekdays(date, abbreviate = T),
          wkdy = fct_relevel(wkdy, "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"),
@@ -52,7 +53,7 @@ Cal <- tibble(date = seq(ymd(20260101), ymd(20260331), by=1))  |>
   mutate(category = case_when(
     exam ~ "Exam (In-Class)",
     not_here ~ "Cal Poly Holiday",
-    quarter & wkdy %in% class_wdays & !not_here & !exam_wk | date == "2026-03-16" ~ "Class Day",
+    quarter & wkdy %in% class_wdays & !not_here & !exam_wk | date == "2026-06-06" ~ "Class Day",
     TRUE ~ "NA")
   )
 
@@ -227,43 +228,43 @@ Your final grades will be determined based on the total points earned. It's esse
   </tr>
   <tr>
     <td>$A$</td>
-    <td>$90 \le x$</td>
+    <td>$93 \le x$</td>
   </tr>
   <tr>
     <td>$A^-$</td>
-    <td>$87 \le x < 90$</td>
+    <td>$90 \le x < 93$</td>
   </tr>
   <tr>
     <td>$B^+$</td>
-    <td>$84 \le x < 87$</td>
+    <td>$87 \le x < 90$</td>
   </tr>
   <tr>
     <td>$B$</td>
-    <td>$81 \le x < 84$</td>
+    <td>$83 \le x < 87$</td>
   </tr>
   <tr>
     <td>$B^-$</td>
-    <td>$78 \le x < 81$</td>
+    <td>$80 \le x < 83$</td>
   </tr>
   <tr>
     <td>$C^+$</td>
-    <td>$75 \le x < 78$</td>
+    <td>$77 \le x < 80$</td>
   </tr>
   <tr>
     <td>$C$</td>
-    <td>$72 \le x < 75$</td>
+    <td>$73 \le x < 77$</td>
   </tr>
   <tr>
     <td>$C^-$</td>
-    <td>$69 \le x < 72$</td>
+    <td>$70 \le x < 73$</td>
   </tr>
   <tr>
     <td>$D^+$</td>
-    <td>$66 \le x < 69$</td>
+    <td>$67 \le x < 70$</td>
   </tr>
   <tr>
     <td>$D$</td>
-    <td>$63 \le x < 66$</td>
+    <td>$63 \le x < 67$</td>
   </tr>
   <tr>
     <td>$D^-$</td>
@@ -299,11 +300,11 @@ Exams are to be taken without the use of textbooks or notes. It is expected that
 
 You won’t be required to computer for the exams, but you may see some questions that involve filling in missing information, interpreting provided R outputs, or selecting the appropriate code to complete a task.
 
-__Thu, Jan 29:__ Midterm I
+__Fri, April 24:__ Midterm I
 
-__Thu, Mar 05:__ Midterm II 
+__Fri, May 22:__ Midterm II 
 
-__Mon, Mar 16:__ Final Exam (7:15 PM)- BLDG 033-0286
+__Sat, June 06:__ Final Exam (TBD)
 
 ::: {.callout-important}
 
@@ -327,7 +328,7 @@ These assignments are individual assignments to track your learning progress. Yo
 
 ### Investigation Assignments
 
-There will be 8 investigation assignments, given every Tuesday, to be completed in this course. These assignments will focus on a key statistical concept. You are encouraged to work in groups of ***up to 3 people*** and submit one write-up with all group members’ names. ***If your partner is absent on a given day, feel free to join another group.*** All investigation assignments are due __Thursdays by 11:59 p.m.__
+There will be 8 investigation assignments, given every Tuesday, to be completed in this course. These assignments will focus on a key statistical concept. You are encouraged to work in groups of ***up to 3 people*** and submit one write-up with all group members’ names. ***If your partner is absent on a given day, feel free to join another group.*** All investigation assignments are due __Fridays by 11:59 p.m.__
 
 ### Lab Assignments
 

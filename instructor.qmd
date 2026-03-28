@@ -8,17 +8,19 @@ Life science is complicated. As your professor, I know you already know this, an
 
 STAT 218 is tailored for life science students who will inevitably engage with Statistics in their future professions. 
 
-:::: {.columns}
 
-::: {.column width="45%"}
 ## Instructor
 
 
 ```{=html}
-<img src="img/sinem.jpeg" alt="A headshot of a woman with curly, short, shoulder-length hair with green eyes."
-  style="width: 250px; height: 250px; border-radius: 100%; margin-top: 5px; border: 1px solid whitesmoke; padding: 5px;">
+<img src="img/sinem.jpeg"
+  style="display: block; margin: 0 auto; width: 250px; height: 250px; border-radius: 100%;">
 
 ```
+
+<br>    
+<br>    
+
 
 {{< fa volume-high >}} [Dr. Sinem Demirci](audio/how-to-pronounce-my-name.mp3) (she/her/hers)  
 {{< fa envelope >}} <a href = "mailto:sdemirci@calpoly.edu" target = blank>sdemirci@calpoly.edu</a>   
@@ -28,27 +30,7 @@ STAT 218 is tailored for life science students who will inevitably engage with S
 
 __Instructor's office hours:__  
 
-__Monday:__ 11:10 AM - 12:00 PM _(In-Office)_    
-__Tuesday:__ 11:10 AM - 12:00 PM _(In-Office)_  
-__Wednesday:__ 11:10 AM - 12:00 PM _(In-Office)_  
-__Thursday:__ 11:10 AM - 12:00 PM _(In-Office)_    
-:::
+___Tue:___ 01:10 PM - 02:50 PM _(In-Office)_  
+___Wed:___ 11:10 AM - 12:00 PM _(In-Office)_  
+___Thu:___ 01:10 PM - 02:00 PM _(In-Office)_    
 
-::: {.column width="10%"}
-
-:::
-
-::: {.column width="45%"}
-
- 
-## Grader  
-
-<br>  
-<br>  
-
- 
-Eden A. Smith   
-{{< fa envelope >}} <a href = "mailto:esmit169@calpoly.edu">esmit169@calpoly.edu</a>   
-
-:::
-::::

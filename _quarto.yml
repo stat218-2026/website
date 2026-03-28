@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "STAT 218 Winter 2026"
+  title: "STAT 218 Spring 2026"
   navbar:
     right:
     - href: "index.qmd"
