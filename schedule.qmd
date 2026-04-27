@@ -373,13 +373,89 @@ all conveniently organized for your academic journey.
 </tr>
 </table>
 
-### {{< fa calendar>}} Week 5 
+### {{< fa calendar-days >}} Week 5 (Apr 28 - May 1)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.5:</b> Conditions for Validity of Estimation Methods <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-2026.github.io/slides/05-Week-05/02-Lect-02.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Confidence Interval for a Single Mean </a>&nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+  <td>
+ <b> No assignment for today! </b>   
+</td>
+  </tr>
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 6.5:</b> Conditions for Validity of Estimation Methods <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>
+<td>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 3 - Sleepless Nights Part 1 </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 3  
 
 <br>
 
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Fri, May 1 </b>
+</td>
+  </tr>
+<tr>
+  <td> 
+        &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 6.5:</b> Conditions for Validity of Estimation Methods <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)
+  </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "https://drive.google.com/file/d/1b9ieMnyyrd25vAgbeXhykmF2kXn_H7gm/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - More on CI & One Sample t-Test </a> &nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+    &nbsp; **No Assignment for Today!** 
+</td>
+  </tr>
+
+   <tr>
+    <td> 
+    <b> Review your Hypothesis Testing for One Mean notes! </b>  
+    <br>
+    </td>
+<td>    
+    <br>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 - Sleepless Nights Part 2 </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 4  
 
 <br>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Tue, May 5 </b>
+
+</td>
+  </tr>
+
+</table>
+
+
 
 ### {{< fa calendar >}} Week 6 
 
