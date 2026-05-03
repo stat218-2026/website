@@ -457,13 +457,91 @@ all conveniently organized for your academic journey.
 
 
 
-### {{< fa calendar >}} Week 6 
+### {{< fa calendar-days >}} Week 6 (May 5 - May 8)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 36%">DURING CLASS</th>
+    <th style="width: 24%">AFTER CLASS</th>
+  </thead>  
+  <tr>             
+    <td> 
+    <b> CH 6: Confidence Intervals </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 6.6:</b> Comparing two means  <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.7:</b> Confidence Interval for µ1 - µ2 <i class="fas fa-book-open"></i>   
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /><a href = "h"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Comparing Two Means - Simulation Based Approach </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>  
+    <br>    
+<b> No assignment for today!</b>
+  </td>
+</tr>
+  <tr>
+    <td> 
+    <b> Review these previous lecture slides </b>  
+    </td>
+
+<td>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 5 - Dung Beetles
+ </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 5  
 
 <br>
 
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+<i class="fas fa-clock"></i>  <b> DUE DATE: Fri, May 8</b>
+</td>
+  </tr>
+  <tr>             
+    <td> 
+    <b> CH 6: Confidence Intervals </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 6.6:</b> Comparing two means  <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.7:</b> Confidence Interval for µ1 - µ2 <i class="fas fa-book-open"></i>   
 
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /><a href = "h"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Comparing Two Means - Theory Based Approach </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>  
+    <br>    
+<b> No assignment for today!</b>
+  </td>
+</tr>
+  <tr>
+    <td>
+   &nbsp; <b> Ch 7: Inference for Numerical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i> 7.1.5 One sample t-tests</a>&nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Diez et al. (2022)   
+  <br>    
+  <b> CH 6: Confidence Intervals </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 6.6:</b> Comparing two means  <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.7:</b> Confidence Interval for µ1 - µ2 <i class="fas fa-book-open"></i>   
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    
+<td>    
+    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Applications of t-tests   </a> <i class="fas fa-file-lines"></i>   
+    </td>
+    <td> 
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 3  
+ 
 <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Tue, May 12</b>
+  </tr>
+</table>
 
 ### {{< fa calendar >}} Week 7 
 
