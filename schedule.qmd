@@ -476,7 +476,7 @@ all conveniently organized for your academic journey.
 &nbsp; <b>FROM Samuels et al. (2016)</b>  
     </td>
     <td> 
-    &nbsp; <input type="checkbox" /><a href = "h"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Comparing Two Means - Simulation Based Approach </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/13Xd35uaFmNsbLTeL1zIvCEFy6zuVfKe4okgoABr9PYU/edit?usp=sharing"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - Comparing Two Means - Simulation Based Approach </a> &nbsp; <i class="fas fa-file-lines"></i>   
     </td>
     <td>  
     <br>    
