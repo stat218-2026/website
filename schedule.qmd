@@ -545,6 +545,12 @@ None
   </thead>  
   
   <tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <br>
+  <b> Start studying the take-home portion of the Second Midterm. See [Instructions](https://stat218-2026.github.io/slides/11-midterm-2/midterm 2 instructions.html) and [Paper](https://stat218-2026.github.io/slides/11-midterm-2/midterm 2 paper.html) here. </b>   
+<br>  
+  </td>
+</tr>
+  <tr>
     <td>
    &nbsp; <b> Ch 7: Inference for Numerical Data </b>    
     &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i> 7.1.5 One sample t-tests</a>&nbsp; <i class="fas fa-book-open"></i>    
