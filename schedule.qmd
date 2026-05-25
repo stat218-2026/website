@@ -697,14 +697,95 @@ None
   </tr>  
 </table>
 
-### {{< fa calendar >}} Week 9 
+### {{< fa calendar-days >}} Week 9 (May 26 - May 29)
 
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 36%">DURING CLASS</th>
+    <th style="width: 24%">AFTER CLASS</th>
+  </thead>  
+  <tr>             
+    <td>
+    &nbsp; <b>Ch 6: Inference for Categorical Data</b>  
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.3</b> Testing for goodness of fit using chi-square</a>&nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.4 </b> Testing for independence in two-way tables</a>&nbsp;<i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Diez et al. (2022)   
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1veLTXR3tZwSBdgjQgcrFc8yGeoXINnN9OtdQlMaqfsk/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Chi Square Tests </a> &nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    <td>
+<b> No assignment for today! </b>   
+    </td> 
+</tr>
+  <tr>
+    <td> 
+    &nbsp; <b>Ch 6: Inference for Categorical Data</b>  
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.3</b> Testing for goodness of fit using chi-square</a>&nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.4 </b> Testing for independence in two-way tables</a>&nbsp;<i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Diez et al. (2022)   
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1TMcMz7bHLSPb5sf7f0aBFIcgK9f2L3v2/copy?usp=drivesdk&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 7 - Comparing Multiple Proportions
+ </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Investigation 7    
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, May 29 </b>
+    </td> 
+  </tr>
+  <tr>             
+    <td> 
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/13Kv-ptecRTf1zD_-a83nVXTFyCzD7eDRFDOlgXWtlKE/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to One Way ANOVA </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>  
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 9 Individual Assignment (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Tue, Jun 2 </b>
+  </td>
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br> 
+    </td>
+    
+<td>    
+   &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/document/d/1uLtKkKg0BZFg-fEX7LzTs-ch-KwqA8gL-RmRwkOoNvw/copy?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Investigation 8 - Comparing Multiple Means</a>&nbsp; <i class="fa-solid fa-magnifying-glass"></i>  
+    </td>
+    <td> 
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Investigation 8   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Tue, Jun 2</b>
+    </td>
 
-<br>
 
+  </tr>
+</table>
+
+ 
+    
 ### {{< fa calendar >}} Week 10 
 
 <br>
