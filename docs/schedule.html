@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -164,7 +193,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-7-may-12---may-15" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-7-may-12---may-15" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-7-may-12---may-15"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 7 (May 12 - May 15)</a></li>
   <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-8-may-19---may-22" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-8-may-19---may-22" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-8-may-19---may-22"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 8 (May 19 - May 22)</a></li>
   <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-9-may-26---may-29" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-9-may-26---may-29" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-9-may-26---may-29"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 9 (May 26 - May 29)</a></li>
-  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e646172203e7d7d-week-10" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e646172203e7d7d-week-10" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e646172203e7d7d-week-10"><i class="fa-solid fa-calendar" aria-label="calendar"></i> Week 10</a></li>
+  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-10-jun-2---jun-5" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-10-jun-2---jun-5" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-10-jun-2---jun-5"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 10 (Jun 2 - Jun 5)</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -887,11 +916,77 @@ AFTER CLASS
 </tr>
 </tbody></table>
 </section>
-<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e646172203e7d7d-week-10" class="level3">
-<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e646172203e7d7d-week-10"><i class="fa-solid fa-calendar" aria-label="calendar"></i> Week 10</h3>
-<p><br></p>
-<p>Being Worked On &nbsp; <i class="fas fa-hammer"></i></p>
-<p><br></p>
+<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-10-jun-2---jun-5" class="level3">
+<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612063616c656e6461722d64617973203e7d7d-week-10-jun-2---jun-5"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i> Week 10 (Jun 2 - Jun 5)</h3>
+<pre><code>    &lt;tr&gt;</code></pre><table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+<thead>
+<tr><th style="width: 40%">
+BEFORE CLASS
+</th>
+<th style="width: 37%">
+DURING CLASS
+</th>
+<th style="width: 23%">
+AFTER CLASS
+</th>
+</tr></thead>
+<tbody><tr>
+<td>
+&nbsp; <b> Ch 12: Linear Regression and Correlation </b><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i><br>
+<br> &nbsp; FROM Samuels et al.&nbsp;(2016) <br>
+</td>
+<td>
+&nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1ZKknj1PhSsEde5krZHmZj1bIr-GUQwuNaNvqOWwDjPo/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Correlation </a> &nbsp; <i class="fas fa-file-lines"></i><br>
+
+</td>
+<td>
+<b> No assignment for today </b>
+</td>
+</tr>
+<tr>
+<td>
+&nbsp; <b> Ch 12: Linear Regression and Correlation </b><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning <span class="math inline">\(\beta_1\)</span> &nbsp; <i class="fas fa-book-open"></i><br>
+<br> &nbsp; FROM Samuels et al.&nbsp;(2016)
+</td>
+<td>
+&nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1PPUGjpxJPR4xcRW17e6ulKsGlV4n6L4P5JcXP-K9JTg/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - Bivariate Regression </a>&nbsp; <i class="fas fa-file-lines"></i><br>
+
+</td>
+<td>
+<br> &nbsp;<input type="checkbox"> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 10 Individual Assignment (on CANVAS) <br> <i class="fas fa-clock"></i><b> DUE DATE: Fri, Jun 5 </b>
+</td>
+</tr>
+<tr>
+<td>
+&nbsp; <b> Ch 12: Linear Regression and Correlation </b><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i><br>
+&nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning <span class="math inline">\(\beta_1\)</span> &nbsp; <i class="fas fa-book-open"></i><br>
+<br> &nbsp; FROM Samuels et al.&nbsp;(2016) <br>
+</td>
+<td>
+&nbsp; <input type="checkbox"><a href="https://stat218-fall25.github.io/slides/10-Week-10/03-Lecture-03/01-Presentation/01-Lec-02-Lab-07.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slides"></i> Lab Slides - Correlation &amp; Bivariate Regression </a> &nbsp; <i class="fas fa-file-lines"></i><br>
+
+</td>
+<td>
+<br> &nbsp;<input type="checkbox"> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6<br>
+<br> <i class="fas fa-clock"></i><b> DUE DATE: Fri, Jun 5 </b><br>
+
+</td>
+</tr>
+
+<tr><td colspan="3" style="text-align: center;">
+&nbsp; <b> Review Session (Q&amp;A) </b>
+</td>
+</tr>
+</tbody></table>
 
 
 </section>

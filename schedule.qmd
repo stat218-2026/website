@@ -786,11 +786,74 @@ None
 
  
     
-### {{< fa calendar >}} Week 10 
+### {{< fa calendar-days >}} Week 10 (Jun 2 - Jun 5)
 
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 37%">DURING CLASS</th>
+    <th style="width: 23%">AFTER CLASS</th>
+  </thead>
 
-<br>
-
+<tr>
+    <td>
+          &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="https://docs.google.com/presentation/d/1ZKknj1PhSsEde5krZHmZj1bIr-GUQwuNaNvqOWwDjPo/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Correlation </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+    <b> No assignment for today </b>
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning $\beta_1$ &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016) 
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1PPUGjpxJPR4xcRW17e6ulKsGlV4n6L4P5JcXP-K9JTg/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - Bivariate Regression </a>&nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 10 Individual Assignment (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Jun 5 </b>
+    </td> 
+    </tr>
+  <tr>
+    <td>
+      &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i>   
+        &nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning $\beta_1$ &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-fall25.github.io/slides/10-Week-10/03-Lecture-03/01-Presentation/01-Lec-02-Lab-07.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slides"></i> Lab Slides - Correlation & Bivariate Regression </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Jun 5 </b>    
+    </td> 
+    </tr>
+        <tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b> Review Session (Q&A) </b></td>
+</tr>
+</table>
